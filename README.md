@@ -6,6 +6,11 @@
 
 ## 部署步骤
 
+<a href="https://repl.it/github/wy580477/replit-trojan">
+    
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/andbruibm/reader-replit" style="height: 40px; width: 190px;" />
+</a>
+
 1. fork本仓库
 2. 在`Dockerfile`内第3-5行修改自定义设置，说明如下：
 
