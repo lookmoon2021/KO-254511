@@ -6,8 +6,7 @@
 
 ## 部署步骤
 
-<a href="lookmoon2021/KO-254511">
-    
+<a href="https://repl.it/github/lookmoon2021/KO-254511"> 
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/andbruibm/reader-replit" style="height: 40px; width: 190px;" />
 </a>
 
